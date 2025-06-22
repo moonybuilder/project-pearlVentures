@@ -80,7 +80,8 @@ export const packagesData = [
     rating: 4.9,
     reviews: 127,
     tag: "Best Seller",
-    imageUrl: "https://images.pexels.com/photos/4457170/pexels-photo-4457170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    imageUrl: "https://images.pexels.com/photos/13456661/pexels-photo-13456661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
   },
   {
     title: "Zanzibar Beach Getaway",

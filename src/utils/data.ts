@@ -36,7 +36,8 @@ export const destinationsData = [
     name: "Maasai Mara",
     country: "Kenya",
     description: "Experience the incredible wildlife and stunning landscapes of one of Africa's most famous safari destinations.",
-    imageUrl: "https://images.pexels.com/photos/13456661/pexels-photo-13456661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    imageUrl: "https://unsplash.com/photos/two-hot-air-balloons-in-the-wild-89IBtfoz3Vw"
+    //imageUrl: "https://images.pexels.com/photos/13456661/pexels-photo-13456661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     name: "Zanzibar Beaches",
